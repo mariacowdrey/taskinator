@@ -1,5 +1,5 @@
 # Taskinator
 
-# Kanban style productivity tool
+## Kanban style productivity tool
 
-# Website: https://mariacowdrey.github.io/taskinator/
+## Website: https://mariacowdrey.github.io/taskinator/
